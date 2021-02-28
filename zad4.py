@@ -1,6 +1,8 @@
+import math
+
 # Funkcija koja odredjuje dijagonalu
 def diag(a):
-    return sqrt(2 * a**2)
+    return math.sqrt(2 * a**2)
 
 # Input
 a1 = float(input("Unesite stranicu a1: "))
