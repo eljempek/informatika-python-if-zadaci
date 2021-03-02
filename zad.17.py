@@ -6,4 +6,3 @@ if (a > b and b > c):
     print("Plati")
 else:
     print("Neplati")
- 
