@@ -1,2 +1,2 @@
-# informatika-python-if-zadaci
-Zadaci za if python
+# informatika-python-ciklusi-zadaci
+Zadaci ciklusi python
